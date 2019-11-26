@@ -1,0 +1,4 @@
+C:\Users\Hiago Roberto\Desktop\Projetos\Crudtelasql\Crudtelasql\obj\Debug\Crudtelasql.csprojAssemblyReference.cache
+C:\Users\Hiago Roberto\Desktop\Projetos\Crudtelasql\Crudtelasql\obj\Debug\Crudtelasql.frmCadastroCliente.resources
+C:\Users\Hiago Roberto\Desktop\Projetos\Crudtelasql\Crudtelasql\obj\Debug\Crudtelasql.Properties.Resources.resources
+C:\Users\Hiago Roberto\Desktop\Projetos\Crudtelasql\Crudtelasql\obj\Debug\Crudtelasql.csproj.GenerateResource.cache
